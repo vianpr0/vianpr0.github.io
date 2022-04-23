@@ -1,0 +1,32 @@
+body{
+    padding-bottom: 1000px;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    height: 70px;
+    justify-content: space-between;
+    border:2px solid red
+}
+.mainan {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    border:2px solid red
+}
+.satu {
+    background-color: aqua;
+    width: 100px ;
+}
+.dua{
+    background-color: blue;
+    width: 100px;
+}
+.tiga{
+    background-color: red;
+    width: 100px;
+}
