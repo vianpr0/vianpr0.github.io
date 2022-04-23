@@ -1,0 +1,67 @@
+body{
+    margin:5px ;
+}
+
+.thumbnail {
+    width: 100%;
+    display: block;
+    
+}
+
+p {
+    font-family: Roboto, Arial;
+    margin: 0;
+    margin-bottom: 0;
+}
+.vprev {
+    
+
+}
+
+.v-title{
+    font-weight: 700;
+    margin-top: 6px;
+    font-size: 15px;
+    line-height: 20px;
+    margin-bottom: 12px;
+    
+}
+
+.v-profil {
+
+}
+.v-profil img{
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+}
+.v-des {
+    
+    font-size: 12px;
+}
+
+.t-row{
+        margin-bottom: 10px;
+}
+
+.v-author{
+    font-size: 15px;
+    color: rgb (96, 96, 96);
+    margin-bottom: 5px;
+}
+
+.v-des-grid{
+    display: grid;
+    grid-template-columns: 60px 1fr;
+}
+
+.v-grid{
+    display: grid;
+    column-gap: 15px;
+    row-gap: 14px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+
+
